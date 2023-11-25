@@ -1,0 +1,238 @@
+@media all and (max-width:768px) {
+
+
+
+    .view a {
+        font-size: 11px;
+        padding: 10px;
+
+    }
+
+    .logo {
+        height: 39px;
+        background-repeat: no-repeat;
+
+    }
+
+    .fitnes {
+        /* height: auto; */
+        background-position: 32%;
+    }
+
+    .links {
+        width: 27%;
+    }
+
+    .matn-main h1 {
+        font-size: 30px;
+    }
+
+    .matn-main p {
+        font-size: 14px;
+    }
+
+    .container {
+        width: 78%;
+    }
+
+    .part,
+    .boxes {
+        height: auto;
+        width: 48% !important;
+    }
+
+    .part {
+        width: 47.9%;
+    }
+
+    .formats {
+        padding: 60px 0px;
+    }
+
+    .socail h2 {
+        font-size: 32px;
+    }
+
+    .myid h3 {
+        font-size: 26px;
+    }
+
+    .myid {
+        width: 43%;
+    }
+
+    .matn-us {
+        width: 80%;
+    }
+
+    .matn-us h2 {
+        font-size: 60px;
+    }
+
+    .boxes a {
+        width: 30%;
+    }
+
+    .us {
+        width: 90%;
+    }
+}
+
+@media all and (max-width:425px) {
+    .view a {
+        padding: 7px;
+        font-size: 15px;
+    }
+
+    .matn-main p {
+        font-size: 18px;
+    }
+
+    .links {
+        width: 43%;
+    }
+
+    .fitnes {
+        background-position: 50%;
+    }
+
+    .view {
+        width: 43%;
+    }
+
+    .part,
+    .boxes {
+        width: 100% !important;
+    }
+
+    .formats h1 {
+        font-size: 40px;
+    }
+
+    .myid h3 {
+        font-size: 17px;
+    }
+
+    .myid {
+        width: 50%;
+    }
+
+    .us {
+        width: 95% !important;
+    }
+
+    .padn input,
+    .message textarea {
+        font-size: 13px;
+    }
+
+    .allbox a {
+        font-size: 16px;
+        padding: 12px 30px;
+        margin-top: 4px;
+    }
+}
+
+@media all and (max-width:320px) {
+    .view a {
+        padding: 7px;
+        font-size: 15px;
+    }
+
+    .matn-main p {
+        font-size: 12px;
+    }
+
+    .matn-main h1 {
+        font-size: 25px;
+    }
+
+    .links {
+        width: 43%;
+    }
+
+    .fitnes {
+        background-position: 50%;
+    }
+
+    .view {
+        width: 60% !important;
+    }
+
+    .levels h1 {
+        font-size: 30px;
+    }
+
+    .boxes a {
+        width: 36%;
+        margin-bottom: 20px;
+    }
+
+
+    .boxes {
+        width: 100%;
+    }
+
+    .socail h2 {
+        font-size: 29px;
+    }
+
+    .formats h1 {
+        font-size: 25px;
+    }
+
+    .myid h3 {
+        font-size: 14px;
+    }
+
+    .myid {
+        width: 61%;
+    }
+
+    .contact h2 {
+        font-size: 25px;
+    }
+
+    .us {
+        width: 95%;
+    }
+
+    .padn input,
+    .message textarea {
+        font-size: 13px;
+    }
+
+    .allbox a {
+        font-size: 16px;
+        padding: 12px 30px;
+        margin-top: 4px;
+    }
+
+    .pd {
+        display: block;
+    }
+
+    .an {
+        display: block;
+    }
+
+    .padn {
+        width: 100%;
+    }
+}
+
+@media all and (max-width:1024px) {
+
+    .part,
+    .boxes {
+        width: 30.9%;
+    }
+
+    .boxes a {
+        width: 36%;
+    }
+
+    .view {
+        width: 26%;
+    }
+}
